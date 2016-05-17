@@ -2,29 +2,29 @@
 <record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
-        <description>Level</description>
+        <description/>
         <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_25436_k16.logging.verbosity</name>
+        <name>x_25436_k16.b</name>
         <read_roles/>
-        <suffix>logging.verbosity</suffix>
+        <suffix>b</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-17 18:14:49</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>7453894c0f2f9200897ab97ce1050e22</sys_id>
+        <sys_created_on>2016-05-17 18:41:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4d9949cc0f2f9200897ab97ce1050ef9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_25436_k16.logging.verbosity</sys_name>
+        <sys_name>x_25436_k16.b</sys_name>
         <sys_package display_value="K16" source="x_25436_k16">be09b4080f2f9200897ab97ce1050eae</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16">be09b4080f2f9200897ab97ce1050eae</sys_scope>
-        <sys_update_name>sys_properties_7453894c0f2f9200897ab97ce1050e22</sys_update_name>
+        <sys_update_name>sys_properties_4d9949cc0f2f9200897ab97ce1050ef9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-17 18:14:49</sys_updated_on>
+        <sys_updated_on>2016-05-17 18:41:41</sys_updated_on>
         <type>string</type>
-        <value>info</value>
+        <value/>
         <write_roles/>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=7453894c0f2f9200897ab97ce1050e22"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=4d9949cc0f2f9200897ab97ce1050ef9"/>
 </record_update>
